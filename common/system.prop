@@ -1,0 +1,10 @@
+# This file will be read by resetprop
+# Example: Change dpi
+# ro.sf.lcd_density=320
+ro.config.media_vol_steps=60
+ro.config.alarm_vol_steps=30
+ro.config.system_vol_steps=45
+ro.config.vc_call_vol_steps=30
+ro.ril.enable.amr.wideband=1
+ro.media.enc.jpeg.quality=100
+wifi.supplicant_scan_interval=600
